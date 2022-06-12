@@ -1,0 +1,20 @@
+.BoardWrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  margin: 5%;
+
+  @media (max-width: 768px) {
+    flex-direction: column;
+  }
+}
+
+
+.Title {
+  width: 100%;
+  margin: 0px;
+}
+
+.Body {
+  width: 100%;
+}
