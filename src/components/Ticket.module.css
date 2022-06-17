@@ -1,0 +1,15 @@
+.Title {
+    width: 100%;
+    margin: 0px;
+}
+
+.Body {
+    width: 100%;
+}
+
+.Wrapper {
+    background: darkgray;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 5%;
+}
